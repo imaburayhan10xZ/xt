@@ -1,4 +1,4 @@
-﻿# DUDES-PANEL-2.0
+﻿# XT CORP
 
 Supabase-backed business panel for clients, panel keys, payments, invoices, reports and trash management.
 
